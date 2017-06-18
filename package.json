@@ -1,0 +1,10 @@
+{
+  "name": "cc.inflate",
+  "version": "0.1.0",
+  "title": "Inflate Module",
+  "description": "Library for unzipping data buffers.",
+  "bugs": null,
+  "author": null,
+  "contributors": null,
+  "main": "inflate.js"
+}

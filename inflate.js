@@ -1,5 +1,5 @@
 (function() {
-    //Thank you! http://www.onicos.com/staff/iz/amuse/javascript/expert/inflate.txt
+    //Thank you! http://www.onicos.com/staff/iz/amuse/javascript/expert/inflate.txt 
 
     /* constant parameters */
     var WSIZE = 32768;		// Sliding Window size

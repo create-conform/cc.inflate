@@ -1,7 +1,9 @@
 {
   "name": "cc.inflate",
-  "version": "0.1.1",
+  "version": "0.2.0",
   "title": "Inflate Module",
   "description": "Library for unzipping data buffers.",
-  "main": "inflate.js"
+  "pkx" : {
+    "main": "inflate.js"
+  }
 }
